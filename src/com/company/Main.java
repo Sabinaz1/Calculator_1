@@ -47,7 +47,7 @@ public class Main {
 
             }
 
-            System.out.println("Would you like to do another calculation? (yes/no)");
+            System.out.println("Would you like to do another calculation? (yes/no) ");
             again = answer.next();
 
         }
